@@ -1,3 +1,6 @@
+// GITHUB REPOSITORY LINK: https://github.com/aaronvsc/PlayList.git
+// I worked on this lab alone - Aaron Santa Cruz
+
 #include <iostream>
 #include "PlaylistNode.h"
 
